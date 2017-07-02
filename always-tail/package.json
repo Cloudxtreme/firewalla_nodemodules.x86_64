@@ -1,6 +1,6 @@
 {
   "name": "always-tail",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "continuous file tail. robust enough to survive rollovers.",
   "main": "index.js",
   "scripts": {
@@ -33,8 +33,8 @@
     "url": "https://github.com/jandre/always-tail/issues"
   },
   "homepage": "https://github.com/jandre/always-tail#readme",
-  "_id": "always-tail@0.2.0",
-  "_shasum": "e187697a96165cae94325a91e12ae696d3aeac67",
+  "_id": "always-tail@0.2.1",
+  "_shasum": "40d2b3c9682b289a0d139342803af890647d6a65",
   "_resolved": "https://github.com/MelvinTo/always-tail/tarball/master",
   "_from": "https://github.com/MelvinTo/always-tail/tarball/master"
 }
