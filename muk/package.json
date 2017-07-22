@@ -1,0 +1,66 @@
+{
+  "name": "muk",
+  "description": "Mock object methods and dependencies.",
+  "keywords": [
+    "test",
+    "mock",
+    "dependency"
+  ],
+  "version": "0.5.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fent/node-muk.git"
+  },
+  "author": {
+    "name": "Roly Fentanes",
+    "url": "https://github.com/fent"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/.bin/_mocha -- -R spec test/*-test.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "istanbul": "0"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "gitHead": "a42827a53eace65960962b32db301bb0fcad4323",
+  "bugs": {
+    "url": "https://github.com/fent/node-muk/issues"
+  },
+  "homepage": "https://github.com/fent/node-muk#readme",
+  "_id": "muk@0.5.3",
+  "_shasum": "4e61b407751b862936350cdb223509e611ed039b",
+  "_from": "muk@latest",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "fent",
+    "email": "roly426@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "fent",
+      "email": "roly426@gmail.com"
+    },
+    {
+      "name": "popomore",
+      "email": "sakura9515@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "4e61b407751b862936350cdb223509e611ed039b",
+    "tarball": "https://registry.npmjs.org/muk/-/muk-0.5.3.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/muk-0.5.3.tgz_1480908565595_0.8482649610377848"
+  },
+  "_resolved": "https://registry.npmjs.org/muk/-/muk-0.5.3.tgz"
+}
